@@ -69,7 +69,7 @@ La aplicación está pensada para facilitar la gestión del lavadero tanto para 
 
 
 ---
-## 🧠 Autor
+## 👤 Autor
 
 - **Agustín Domínguez**  
   💼 Desarrollador y estudiante  

@@ -35,7 +35,7 @@ La aplicación está pensada para facilitar la gestión del lavadero tanto para 
 
 1. Descargar el archivo `.apk` generado desde App Inventor o compilarlo desde el `.aia`.
 2. Instalarlo en un dispositivo Android.
-3. Abrir la aplicación y comenzar a usarla sin necesidad de registro (modo simple).
+3. Abrir la aplicación y comenzar a usarla.
 
 ---
 

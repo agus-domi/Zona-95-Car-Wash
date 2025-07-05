@@ -50,6 +50,12 @@ La aplicación está pensada para facilitar la gestión del lavadero tanto para 
 
 
 ---
+### 🏠 Inicio
+<img src="https://github.com/user-attachments/assets/b5f51ece-c6b3-477c-924e-8ac0ae9ed6a1" width="300"/>
+
+
+
+---
 ### 📅 Reserva de Turno
 <img src="https://github.com/user-attachments/assets/dafa926c-8efd-4a89-977c-62c1b72e936b" width="300"/>
 <img src="https://github.com/user-attachments/assets/286d0114-125a-461d-b1c4-7b51faddca2e" width="300"/>
